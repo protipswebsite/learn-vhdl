@@ -1,3 +1,7 @@
+-- Designer: Pro.Tips Website
+-- Design title: VHDL HelloWorld Program TestBench
+-- Date: 11/22/2024
+
 -- include the library 1st step
 library ieee;
 use ieee.std_logic_1164.all;
